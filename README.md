@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AliMora83
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on DeFi
+- 💞️ I’m looking to collaborate on Web3
 - 📫 ali@openmindi.co.za
 
 <!---
