@@ -9,8 +9,7 @@
 
 ----
 
-- 🔭 I’m currently participating at
-<a target="_blank" href="https://twitter.com/swarts_d/status/1566543491295059969?s=20&t=8eqkg9SeXlI5ceQbvXouVQ">#MTNBusinessHack</a>
+- 🔭 I’m currently rebuilding my portfolio 🥳
   
 
 - 🌱 Building with Nuxt.js 
