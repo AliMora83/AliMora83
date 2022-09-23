@@ -12,7 +12,7 @@
 - 🔭 I’m currently rebuilding my portfolio 🥳
   
 
-- 🌱 Building with Nuxt.js 
+- 🌱 Building with Next.js 
   
 
 - ❓ Would love to get more exp  
