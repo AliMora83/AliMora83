@@ -27,6 +27,9 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+----
+https://nextjs.org/conf/tickets/oct22/AliMora83
+
 
 
 ### Frontend  
