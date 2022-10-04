@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Call me Ali Mora, a full-stack developer 👨‍💻🚀</div>  
+### <div align="center">🏹 Ali Mora, Full-stack developer 🏆</div>  
   
   
 
