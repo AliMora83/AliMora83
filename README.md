@@ -9,7 +9,7 @@
 
 ----
 
-- 🔭 I’m currently rebuilding my portfolio 🥳
+- 🔭 Visit my [portfolio](https://alimora-portfolio.vercel.app/) 🥳
   
 
 - 🌱 Building with Next.js 
