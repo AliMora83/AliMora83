@@ -5,7 +5,17 @@
 
 ### <div align="center">🏹 Ali Mora, Full-stack developer 🏆</div>  
   
-  
+  <div align="center">
+  <a href="https://www.linkedin.com/in/daurius-ali-swarts-1b151420b/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+ alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href = "mailto:ali.namka.2@gmail.com?subject = Feedback&body = Message">
+<img src=https://img.shields.io/badge/gmail-%23EE4831.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+
+ 
+</div> 
 
 ----
 
@@ -18,7 +28,10 @@
 - ❓ Would love to get more exp  
   
 
-- ⚡ Fun fact: 420 is good for you! 
+- ⚡ Fun fact: 420 is good for you!  
+  
+
+<br/> 
   
 
 <br/>  
@@ -73,25 +86,6 @@
 
 <br/>  
 
-
-## Connect with me  
-
-<div align="center">
-<a href="https://github.com/AliMora83" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href = "mailto:ali.namka.2@gmail.com?subject = Feedback&body = Message">
-<img src=https://img.shields.io/badge/gmail-%23EE4831.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
-  <a href="https://www.linkedin.com/in/daurius-ali-swarts-1b151420b/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
- alt=linkedin style="margin-bottom: 5px;" />
-</a>
- 
-</div>  
-  
-
-<br/>  
 
 ----
 
