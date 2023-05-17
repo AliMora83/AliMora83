@@ -83,6 +83,10 @@
 <a href = "mailto:ali.namka.2@gmail.com?subject = Feedback&body = Message">
 <img src=https://img.shields.io/badge/gmail-%23EE4831.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
+  <a href="https://www.linkedin.com/in/daurius-ali-swarts-1b151420b/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+ alt=linkedin style="margin-bottom: 5px;" />
+</a>
  
 </div>  
   
