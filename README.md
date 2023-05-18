@@ -73,8 +73,8 @@
 
 ## Github Stats  
 <p align="center">
-<img height="40%" src="https://github-readme-stats.vercel.app/api?username=AliMora83&count_private=true&show_icons=true&theme=tokyonight" />
-<img height="40%" src="https://streak-stats.demolab.com/?user=AliMora83&theme=tokyonight" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=AliMora83&count_private=true&show_icons=true&theme=tokyonight" />
+<img width="40%" src="https://streak-stats.demolab.com/?user=AliMora83&theme=tokyonight" />
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AliMora83&theme=react-dark" />
 </p>
 <br/>
