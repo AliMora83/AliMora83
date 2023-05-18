@@ -1,3 +1,7 @@
+- name: GitHub - Activity - Readme
+  uses: AliMora83/github-activity-readme@v0.3.6
+
+
 name: generate animation
 
 on:
