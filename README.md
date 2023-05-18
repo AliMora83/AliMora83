@@ -26,6 +26,9 @@
   <p align="center"><img src="https://komarev.com/ghpvc/?username=AliMora83&label=Profile%20views&color=0e75b6&style=flat" alt="AliMora83" /></p>
 </div>
 
+---
+
+
 ## Tech Stack
 #### Front-End
 <p align="center">
@@ -62,13 +65,7 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-%23E1D7C6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=06283D"/>
 <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-%23E1D7C6.svg?style=for-the-badge&logo=OpenAI&logoColor=140200" />
   </p>
-
-
 <br/>  
-
-
-
-
 ----
 
 ## Github Stats  
