@@ -30,12 +30,7 @@
 </div>
 
 ---
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12608](https://github.com/nuxt/nuxt.js/issues/12608) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-<!--END_SECTION:activity-->
----
 
 ## Tech Stack
 #### Front-End
