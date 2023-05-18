@@ -69,7 +69,8 @@
 <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-%23E1D7C6.svg?style=for-the-badge&logo=OpenAI&logoColor=140200" />
   </p>
 <br/>  
-----
+
+---
 
 ## Github Stats  
 <p align="center">
