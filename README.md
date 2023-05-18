@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">🏹 Hello and Welcome 🏆</div>  
+## <div align="center">🏹 Hello and Welcome x🏆</div>  
    
 <div align="center">
   I'm a <strong>Full-stack Software Developer</strong> from South Africa. <br/>My aim is to improve <em>tech skills</em> and <em>add value to <a href="https://www.eddiehub.org/" target="_blank">open source</a> communities.</em><br/>
