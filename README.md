@@ -16,13 +16,16 @@
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
  alt=linkedin style="margin-bottom: 5px;" />
 </a>
+  
 <a href = "mailto:ali.namka.2@gmail.com?subject = Feedback&body = Message">
 <img src=https://img.shields.io/badge/gmail-%23EE4831.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
+  
   <a href="https://alimora-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=react&logoColor=white"
     alt="portfolio" style="margin-bottom: 5px;" />
 </a>
+  
   <p align="center"><img src="https://komarev.com/ghpvc/?username=AliMora83&label=Profile%20views&color=0e75b6&style=flat" alt="AliMora83" /></p>
 </div>
 
