@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">🏹 Hello and Welcome x🏆</div>  
+## <div align="center">🏹 Hello and Welcome 🏆</div>  
    
 <div align="center">
   I'm a <strong>Full-stack Software Developer</strong> from South Africa. <br/>My aim is to improve <em>tech skills</em> and <em>add value to <a href="https://www.eddiehub.org/" target="_blank">open source</a> communities.</em><br/>
@@ -73,8 +73,8 @@
 
 ## Github Stats  
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=AliMora83&count_private=true&show_icons=true&theme=tokyonight" />
-<img width="40%" src="https://streak-stats.demolab.com/?user=AliMora83&theme=tokyonight" />
+<img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api?username=AliMora83&count_private=true&show_icons=true&theme=tokyonight" />
+<img width="40%" height="200px" src="https://streak-stats.demolab.com/?user=AliMora83&theme=tokyonight" />
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AliMora83&theme=react-dark" />
 </p>
 <br/>
