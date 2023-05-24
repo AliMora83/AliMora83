@@ -67,7 +67,7 @@
 <p align="center">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-%23E1D7C6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=06283D"/>
 <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-%23E1D7C6.svg?style=for-the-badge&logo=OpenAI&logoColor=140200" />
-  </p>
+</p>
 <br/>  
 
 ---
@@ -76,7 +76,6 @@
 <p align="center">
 <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api?username=AliMora83&count_private=true&show_icons=true&theme=tokyonight" />
 <img width="40%" height="200px" src="https://streak-stats.demolab.com/?user=AliMora83&theme=tokyonight" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=AliMora83&theme=react-dark" />
 </p>
 <br/>
 
