@@ -58,7 +58,7 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23E1D7C6.svg?style=for-the-badge&logo=MongoDB&logoColor=140200" />
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23E1D7C6.svg?style=for-the-badge&logo=Firebase&logoColor=140200" />
 <img alt="Sanity" src="https://img.shields.io/badge/Sanity-%23E1D7C6.svg?style=for-the-badge&logo=Sanity&logoColor=140200" />
-<a href="https://thirdweb.com/" target="_blank"><img alt="ThirdWeb" src="https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhowitworks-logo.ab17daee.png&w=256&q=75" style="width: 40px; background-color: black; vertical-align: middle; margin-right: 5px;" /></a>
+<a href="https://thirdweb.com/" target="_blank"><img alt="ThirdWeb" src="https://images.mirror-media.xyz/publication-images/jwLubzIqj9ukuHAuSU8nN.png?height=1364&width=1364" style="width: 40px; background-color: black; vertical-align: middle; margin-right: 5px;" /></a>
 
 
   </p>
