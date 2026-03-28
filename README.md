@@ -39,7 +39,7 @@
 | [**OpenMindi AI Studio**](https://github.com/AliMora83/openmindi-ai-studio) | AI content generation & creative studio tooling | TypeScript · OpenAI | 🟢 Active |
 | [**Namka Mission Control**](https://github.com/AliMora83/Namka-Mission-Control) | Internal dashboard & ops management system | JavaScript · Firebase | 🟡 In Progress |
 | [**Odoo BA API**](https://github.com/AliMora83/Odoo-BA-API) | Bridging Africa CRM & accounting API built on Odoo ERP | Python · Odoo.sh | 🟢 Active |
-| [**Atlas Website**](https://github.com/AliMora83/Atlas-Website) | Conference & events platform with Odoo integration | TypeScript · Next.js | 🟢 Active |
+| [**Atlas Website**](https://github.com/AliMora83/Atlas-Website) | Conference & events platform | TypeScript · Next.js | 🟢 Active |
 | [**3D Print ManSoft**](https://github.com/AliMora83/3d-print-mansoft) | Manufacturing & operations software for 3D printing business | JavaScript | 🟡 In Progress |
 
 ---
