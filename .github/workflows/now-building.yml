@@ -1,0 +1,37 @@
+name: Update "Now building"
+
+on:
+  schedule:
+    - cron: "17 4 * * *" # daily, 06:17 SAST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/update_now.py"
+      - ".github/workflows/now-building.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rebuild README block
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_now.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update Now building section" README.md
+          git push
