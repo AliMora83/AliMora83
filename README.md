@@ -25,7 +25,13 @@
 Updated automatically from my most recently pushed public repos.
 
 <!-- NOW:START -->
-_Waiting for the first workflow run._
+| Project | What it is | Language | Last push |
+|---|---|---|---|
+| [**python-fundamentals**](https://github.com/AliMora83/python-fundamentals) | – | Python | 2026-11-15 |
+| [**SmartPress**](https://github.com/AliMora83/SmartPress) · [live](https://smartpress.namka.cloud/) | A compressor that runs entirely on your device: in the browser, as an installable app that works offline, or as a macOS desktop app. | JavaScript | 2026-11-15 |
+| [**sa-business-calendar-mcp**](https://github.com/AliMora83/sa-business-calendar-mcp) · [live](https://apify.com/ali_mora/sa-calendar-apify) | Hosted MCP server for South African business days, public holidays and SARS EMP201/VAT201 deadlines. 2 free tools, 4 paid at $0.01/call via Apify Store. | – | 2026-11-13 |
+| [**screws**](https://github.com/AliMora83/screws) | – | – | 2026-11-08 |
+| [**ClipVault**](https://github.com/AliMora83/ClipVault) | ClipVault lives in your menu bar, saves everything you copy, and pastes any earlier clip back into the app you're using with one shortcut. | JavaScript | 2026-11-01 |
 <!-- NOW:END -->
 
 ---
